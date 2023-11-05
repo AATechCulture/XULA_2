@@ -1,0 +1,49 @@
+html
+{
+    font-size: 12 px;
+    font-family: "Georgia", serif;
+}
+/*
+headers: h1, h2, h3
+one paragraph
+*/
+
+title
+{
+    font-size: 48px;
+    text-align: center;
+    color: black;
+}
+
+body
+{
+    background-image: url(picture_3.jpeg);
+
+}
+/*
+h1
+{
+    font-size: 28px;
+    font-weight: bold;
+    text-align: left;
+    color: black;
+    
+}
+
+h2
+{
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+
+h3
+{
+    font-size: 28px;
+    font-weight: bold;
+    text-align: right;
+    color: black;
+
+}
+*/
