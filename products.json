@@ -1,0 +1,146 @@
+[
+  {
+    "company": "Carters",
+    "name": "Kid 1 Piece Hearts Fleece Footie Pajamas",
+    "price": "12",
+    "imagePath": "./images/Carters-Kid_1_Piece_Hearts_Fleece_Footie_Pajamas-12_00.webp.jpg"
+  },
+  {
+    "company": "Carters",
+    "name": "Kid 2 Piece Fair Isle 100  Snug Fit Cotton Pajamas",
+    "price": "16",
+    "imagePath": "./images/Carters-Kid_2_Piece_Fair_Isle_100__Snug_Fit_Cotton_Pajamas-16_00.jpg.jpg"
+  },
+  {
+    "company": "Carters",
+    "name": "Toddler 4 Piece Animal Friends 100  Snug Fit Cotton Pajamas",
+    "price": "18",
+    "imagePath": "./images/Carters-Toddler_4_Piece_Animal_Friends_100__Snug_Fit_Cotton_Pajamas-18_00.webp.jpg"
+  },
+  {
+    "company": "LG",
+    "name": "65 OLED G3 Series Stand and Back Cover",
+    "price": "149",
+    "imagePath": "./images/LG-65_OLED_G3_Series_Stand_and_Back_Cover-149_00.peg.avif.jpg"
+  },
+  {
+    "company": "Lg",
+    "name": "LG OLED evo G3 55 inch 4K Smart TV 2023",
+    "price": "1",
+    "imagePath": "./images/Lg-LG_OLED_evo_G3_55_inch_4K_Smart_TV_2023-1_799_99.jpeg.avif.jpg"
+  },
+  {
+    "company": "Carters",
+    "name": "Baby Pull On Cotton Pants",
+    "price": "3",
+    "imagePath": "./images/Carters-Baby_Pull_On_Cotton_Pants-3.99.webp.jpg"
+  },
+  {
+    "company": "LG",
+    "name": "LG OLED evo G3 83 inch 4K Smart TV 2023",
+    "price": "4",
+    "imagePath": "./images/LG-LG_OLED_evo_G3_83_inch_4K_Smart_TV_2023-4_999_99.jpeg.avif.jpg"
+  },
+  {
+    "company": "LG",
+    "name": "OLED evo G3 83 inch 4K Smart TV 2023",
+    "price": "4",
+    "imagePath": "./images/LG-OLED_evo_G3_83_inch_4K_Smart_TV_2023-4_999_99.jpeg.jpeg.jpg"
+  },
+  {
+    "company": "Microsoft",
+    "name": "Microsoft Audio Dock",
+    "price": "249",
+    "imagePath": "./images/Microsoft-Microsoft_Audio_Dock-249_00.avif.jpg"
+  },
+  {
+    "company": "Microsoft",
+    "name": "Microsoft Designer Compact Keyboard",
+    "price": "69",
+    "imagePath": "./images/Microsoft-Microsoft_Designer_Compact_Keyboard-69_00.avif.jpg"
+  },
+  {
+    "company": "Microsoft",
+    "name": "Microsoft Surface Laptop Go 3",
+    "price": "799",
+    "imagePath": "./images/Microsoft-Microsoft_Surface_Laptop_Go_3-799_00.webp.jpg"
+  },
+  {
+    "company": "Microsoft",
+    "name": "Surface Laptop 5",
+    "price": "899",
+    "imagePath": "./images/Microsoft-Surface_Laptop_5-899_99.avif.jpg"
+  },
+  {
+    "company": "Microsoft",
+    "name": "Xbox Elite Wireless Controller Series 2 Core White",
+    "price": "94",
+    "imagePath": "./images/Microsoft-Xbox_Elite_Wireless_Controller_Series_2_Core_White-94.99.avif.jpg"
+  },
+  {
+    "company": "Nike",
+    "name": "Ja Standard Issue",
+    "price": "95",
+    "imagePath": "./images/Nike-Ja_Standard_Issue-95_00.webp.jpg"
+  },
+  {
+    "company": "Nike",
+    "name": "Nike Sportswear Essential",
+    "price": "35",
+    "imagePath": "./images/Nike-Nike_Sportswear_Essential-35_00.jpg.jpg"
+  },
+  {
+    "company": "Nike",
+    "name": "Nike Sportswear Phoenix Fleece",
+    "price": "70",
+    "imagePath": "./images/Nike-Nike_Sportswear_Phoenix_Fleece-70_00.webp.jpg"
+  },
+  {
+    "company": "Nike",
+    "name": "Nike Storm FIT ADV Utility Power",
+    "price": "102",
+    "imagePath": "./images/Nike-Nike_Storm_FIT_ADV_Utility_Power-102_00.jpg.jpg"
+  },
+  {
+    "company": "Nike",
+    "name": "Nike Therma FIT Swift",
+    "price": "115",
+    "imagePath": "./images/Nike-Nike_Therma_FIT_Swift-115_00.webp.jpg"
+  },
+  {
+    "company": "UnderArmour",
+    "name": "Mens UA Storm Armour down 2.0 Jacket",
+    "price": "113",
+    "imagePath": "./images/UnderArmour-Mens_UA_Storm_Armour_down_2.0_Jacket-113.50.jpeg.jpg"
+  },
+  {
+    "company": "UnderArmour",
+    "name": "Men s UA  Essential Fleece  Joggers",
+    "price": "45",
+    "imagePath": "./images/UnderArmour-Men_s_UA_ Essential_Fleece_ Joggers-45_97.jpeg.jpg"
+  },
+  {
+    "company": "UnderArmour",
+    "name": "Men s UA RUSH\u2122  ColdGear\u00ae Mock",
+    "price": "70",
+    "imagePath": "./images/UnderArmour-Men_s_UA_RUSH\u2122 _ColdGear\u00ae_Mock-70.00.webp.jpg"
+  },
+  {
+    "company": "UnderArmour",
+    "name": "Men s UA HOVR\u2122 Sonic 6 Running  Shoes",
+    "price": "110",
+    "imagePath": "./images/UnderArmour-Men_s_UA_HOVR\u2122 Sonic_6_Running_ Shoes-110.00.jpeg.jpg"
+  },
+  {
+    "company": "UnderArmour",
+    "name": "Women s UA Storm Armour Down 2.0 Jacket",
+    "price": "112",
+    "imagePath": "./images/UnderArmour-Women_s_UA_Storm_Armour_Down_2.0_Jacket-112.50.jpeg.jpg"
+  },
+  {
+    "company": "Carters",
+    "name": "Kid Stretch Leggings",
+    "price": "7",
+    "imagePath": "./images/Carters-Kid_Stretch_Leggings-7_00.webp.jpg"
+  }
+]
